@@ -1,0 +1,54 @@
+/*configurações iniciais*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*altera as fontes do documento*/
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container_cabecalho {
+    /*insere borda em container_cabecalho*/
+    border: 1px, chocolate;
+    /*altera a largura*/
+    width: auto;
+    /*altera a altura*/
+    height: 50px;
+    /*Insere a propriedade display flex. Quando	colocamos	essa propriedade
+    em	um	elemento,	esse	elemento	se	torna	um	flex	container,
+    a	partir	daí	podemos	manipular todos	os	elementos	filhos	desse	
+    flex	container	com	propriedades	novas. Essas	propriedades	
+    devem	ser usadas	no	elemento	que	é	um	flex	container.*/
+
+    display: flex;
+    /*alinha os itens da coniatiner_cabacalho em linha*/
+    flex-direction: row;
+    /**/
+}
+
+/**/
+/*altera as propriedades da imagemcabecalho*/
+.imagemcabecalho {
+    width: 40px;
+    height: 40px;
+}
+
+/*altera as propriedades do container*/
+.container {
+    /*insere a propriedade flex*/
+    display: flex;
+    /*alinha os itens na horizontal*/
+    flex-direction: row;
+    /*Essa	propriedade	ajusta	verticalmente	os	elementos	filhos	do	flex	container
+    Os	elementos	ficam	todos	alinhados	com	o	meio	do	flex	container
+    */
+    align-items: center;
+    /*Essa	prorpiedade	ajusta	horizontalmente	os	elementos	filhos	do	flex	container. 
+    space-around:	Cada	elemento	fica	com	um	espaçamento	igual	em	volta	dele	mesmo.*/
+    justify-content: space-around;
+}
+
+/**/
+/**/
