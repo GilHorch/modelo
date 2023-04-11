@@ -10,6 +10,7 @@ body {
 }
 
 .container_cabecalho {
+    margin: 4px;
     /*insere borda em container_cabecalho*/
     border: 1px, chocolate;
     /*altera a largura*/
