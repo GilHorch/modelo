@@ -21,13 +21,16 @@ body {
     /*alinha os itens da coniatiner_cabacalho em linha*/
     flex-direction: row;
     /**/
-    margin: 4px;
+    margin: 0 auto;
     /*insere borda em container_cabecalho*/
-    border: 1px, chocolate;
+    border: 1px solid #ccc;
     /*altera a largura*/
-    width: auto;
+    width: 100%;
     /*altera a altura*/
     height: 50px;
+
+   	align-items: center;
+
 
 }
 
