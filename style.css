@@ -9,7 +9,7 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
-.container_cabecalho {
+.containercabecalho {
 
     /*Insere a propriedade display flex. Quando	colocamos	essa propriedade
     em	um	elemento,	esse	elemento	se	torna	um	flex	container,
