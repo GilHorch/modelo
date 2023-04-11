@@ -53,6 +53,8 @@ body {
     /*Essa	prorpiedade	ajusta	horizontalmente	os	elementos	filhos	do	flex	container. 
     space-around:	Cada	elemento	fica	com	um	espaçamento	igual	em	volta	dele	mesmo.*/
     justify-content: space-around;
+    margin: 0 auto;
+    border: 1px solid #ccc;
 }
 .imagemtexto1{
 width: 200px;
