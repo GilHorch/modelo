@@ -10,13 +10,7 @@ body {
 }
 
 .container_cabecalho {
-    margin: 4px;
-    /*insere borda em container_cabecalho*/
-    border: 1px, chocolate;
-    /*altera a largura*/
-    width: auto;
-    /*altera a altura*/
-    height: 50px;
+
     /*Insere a propriedade display flex. Quando	colocamos	essa propriedade
     em	um	elemento,	esse	elemento	se	torna	um	flex	container,
     a	partir	daí	podemos	manipular todos	os	elementos	filhos	desse	
@@ -27,6 +21,14 @@ body {
     /*alinha os itens da coniatiner_cabacalho em linha*/
     flex-direction: row;
     /**/
+    margin: 4px;
+    /*insere borda em container_cabecalho*/
+    border: 1px, chocolate;
+    /*altera a largura*/
+    width: auto;
+    /*altera a altura*/
+    height: 50px;
+
 }
 
 /**/
