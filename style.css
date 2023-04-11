@@ -55,6 +55,14 @@ body {
     space-around:	Cada	elemento	fica	com	um	espaçamento	igual	em	volta	dele	mesmo.*/
     justify-content: space-around;
 }
+.imagemtexto1{
+width: 200px;
 
+}
+
+.imagemtexto2{
+
+    width: 200px;
+}
 /**/
 /**/
