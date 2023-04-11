@@ -55,6 +55,7 @@ body {
     justify-content: space-around;
     margin: 0 auto;
     border: 1px solid #ccc;
+    max-width: 200px;
 }
 .imagemtexto1{
 width: 200px;
