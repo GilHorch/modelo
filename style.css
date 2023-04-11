@@ -27,7 +27,7 @@ body {
     /*altera a largura*/
     width: 100%;
     /*altera a altura*/
-    
+    max-height: 210px;
    	align-items: center;
 
 
