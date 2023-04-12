@@ -58,7 +58,7 @@ body {
     justify-content: space-around;
     margin: 2pt;
     border: 1px solid #ccc;
-    max-width: 200px;
+    width: auto;;
     padding: 10px;
 }
 
