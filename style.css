@@ -39,7 +39,7 @@ body {
 .imagemcabecalho {
     width: 200px;
     height: 200px;
-    margin: 2pt;
+    margin: 0 10% 0 10%;
     padding: 10px;
 }
 
