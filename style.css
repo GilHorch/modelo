@@ -11,7 +11,7 @@ body {
 
 .containercabecalho {
 
-    margin: 0 auto;
+    margin: 0 10% 0 10%;
     /*insere borda em container_cabecalho*/
     border: 1px solid #ccc;
     /*altera a largura*/
