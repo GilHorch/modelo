@@ -10,9 +10,10 @@ body {
 }
 
 .containercabecalho {
-margin: 0;
+   
     /*insere borda em container_cabecalho*/
     border: 1px solid #ccc;
+    margin: 0%;
     /*altera a largura*/
     width: 100%;
     /*altera a altura*/
@@ -57,7 +58,8 @@ margin: 0;
     justify-content: space-around;
     margin: 0 10% 0 10%;
     border: 1px solid #ccc;
-    width: auto;;
+    width: auto;
+    ;
     padding: 10px;
 }
 
