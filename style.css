@@ -14,6 +14,7 @@ body {
     /*insere borda em container_cabecalho*/
     border: 1px solid #ccc;
     margin: 0%;
+    padding: 10px;
     /*altera a largura*/
     width: 100%;
     /*altera a altura*/
