@@ -41,6 +41,7 @@ body {
     height: 200px;
     margin: 0 10% 0 10%;
     padding: 10px;
+    border: 1px solid #ccc;
 }
 
 /*altera as propriedades do container*/
@@ -59,7 +60,6 @@ body {
     margin: 0 10% 0 10%;
     border: 1px solid #ccc;
     width: auto;
-    ;
     padding: 10px;
 }
 
